@@ -8,7 +8,7 @@ Reinforcement learning, a pivotal branch of artificial intelligence, focuses on 
 
 ## Contents
 
-The repository is organized into three main folders, each containing a unique RL application:
+The AI A-Z is organized into three main folders, each containing a unique RL application:
 
 1. **Self-Driving Car**
    - Utilizes a simple Deep Q-Network (DQN) algorithm to power a self-driving car simulation.
